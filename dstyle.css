@@ -1,0 +1,166 @@
+a{
+	color: #32cd32;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #32cd32;
+	text-decoration: none;
+}
+a:hover:after{
+	color: #32cd32;
+	text-decoration: none;
+}
+
+
+body{
+	background: #000;
+	color: #32CD32;
+	font-family: 'Roboto',verdana;
+	
+}
+
+h3{
+	padding-left: 30px;
+}
+
+.junior-box{
+	
+	width: 200px;
+	height: 200px;
+	border:1px solid #32CD32 ;
+	display: inline-block;
+	margin: 10px;
+	transition: .3s;
+	
+	
+}
+.junior-box:hover{
+	border: 1px solid #27ae60;
+}
+.site-nav{
+	position: absolute;
+	right: 10px;
+	top: 50px;
+	height: 0;
+	overflow: hidden;
+	transition: .3s;
+	
+}
+.site-nav-open{
+	transition: .3s;
+	height: auto;
+}
+
+.nav-text{
+	background: black;
+	padding: 16px;
+	width: 200px;
+	border-bottom: 1px solid gold;
+}
+.site-nav a{
+	text-decoration: none;
+	color: inherit;
+	font-size:2.1rem;
+}
+.menu-toggle{
+	position: absolute;
+	top: 10px;
+	right: 10px;
+}
+.name{
+	font-size: 4rem;
+	position: relative;
+	top: 10px;
+	left: 10px;
+}
+.header {
+	width:70%;
+	padding: 0;
+	height: 70px;
+	
+}
+ span.hamburger {
+
+        display: block;
+        width: 30px;
+        height: 30px;
+        margin: 5px auto;
+        border-radius: 5px;
+        position: relative;
+        cursor: pointer;
+        -webkit-transition: all .2s linear;                
+        -webkit-box-shadow: 0px 0px 0px 3px #f1c40f;
+    }
+
+    span.hamburger span {
+        display: block;
+        width: 0px;
+        top: 50%;
+        margin-top: -2px;
+        margin-left: 5px;
+        position: absolute;
+        background: #9b59b6;
+        -webkit-transition: all .2s linear;                
+    }
+
+    span.hamburger span.line {
+        display: block;
+        width: 20px;
+        height: 3px;
+        top: 50%;
+        margin-top: -2px;
+        margin-left: 5px;
+        position: absolute;
+        background: #f1c40f;
+        -webkit-transition: all .2s linear;                
+    }
+
+
+    span.hamburger span:before,
+    span.hamburger span:after {
+        content:'';
+        width: 20px;
+        height: 3px; 
+        background: #f1c40f;       
+        position: absolute;
+        margin-top: -8px;
+        -webkit-transition: all .2s linear;                
+    }
+
+    span.hamburger span:after {
+        margin-top: 8px;
+    }
+
+    span.hamburger:hover{
+        -webkit-transform: scale(1.1);
+        -webkit-box-shadow: 0px 0px 0px 3px lightblue;
+    }
+
+    span.hamburger:hover span,
+    span.hamburger:hover span:before,
+    span.hamburger:hover span:after {
+        background: lightblue;
+    }  
+
+    span.hamburger.hamburgerActive {
+        -webkit-box-shadow: 0px 0px 0px 3px orange;        
+    } 
+
+    span.hamburger.hamburgerActive span,
+    span.hamburger.hamburgerActive span:before,
+    span.hamburger.hamburgerActive span:after {
+        background: orange;
+    }     
+    span.hamburger.hamburgerActive span.line {
+        opacity: 0;
+    } 
+
+    span.hamburger.hamburgerActive span:before {
+        margin-top: 0px;
+        -webkit-transform: rotate(45deg);
+    }
+    span.hamburger.hamburgerActive span:after {
+        margin-top: 0px;
+        -webkit-transform: rotate(-45deg);
+    } 

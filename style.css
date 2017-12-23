@@ -1,0 +1,54 @@
+body{
+	background: #000;
+	color: #32CD32;
+	
+	
+}
+.boxer{
+	 display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.box{
+	margin-top: 120px;
+
+	
+	
+	
+	
+	padding: 50px;
+
+	
+}
+.text-box{
+	width: 300px;
+	margin: 10px;
+	padding: 10px;
+	border: none;
+	background: none;
+	color: white;
+	font-family: 'Raleway',verdana;
+
+}
+h1{
+	padding-bottom: 40px;
+	font-family: 'Raleway',verdana;
+	font-weight: 600;
+	font-size: 6rem;
+}
+.text-box:focus{
+	outline: none;
+}
+.btns{
+	font-family: 'Raleway',verdana;
+	width: 260px;
+	color: white;
+	background: #32CD32;
+	border: none;
+	padding: 10px;
+	margin-top: 20px;
+	transition: .3s;
+}
+.btns:hover{
+	width: 300px;
+}

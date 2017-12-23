@@ -1,0 +1,153 @@
+
+User -> rdp Answer ->  Level -> 0 Time ->  2017/10/23 15:50:04
+User -> codewars Answer ->  Level -> 0 Time ->  2017/10/23 16:13:22
+User -> codewars Answer -> brainfuck Level -> 0 Time ->  2017/10/23 16:16:26
+User -> vis Answer -> ay Level -> 0 Time ->  2017/10/23 16:16:31
+User -> vis Answer -> pk Level -> 0 Time ->  2017/10/23 16:20:12
+User -> codewars Answer -> utf Level -> 0 Time ->  2017/10/23 16:20:32
+User -> codewars Answer -> wtf Level -> 0 Time ->  2017/10/23 16:20:34
+User -> rdp Answer ->  Level -> 2 Time ->  2017/10/23 16:20:48
+User -> codewars Answer -> 636f72657b37373337336464646431346435383736653337633338646364333635380d065316 Level -> 4 Time ->  2017/10/23 16:21:31
+User ->  Answer -> wer Level -> 3 Time ->  2017/10/23 16:21:57
+User -> xino Answer -> -- Level -> 1 Time ->  2017/10/23 16:22:21
+User -> rdp Answer -> wefwe Level -> 0 Time ->  2017/10/23 16:22:28
+User -> rdp Answer ->  Level -> 0 Time ->  2017/10/23 16:26:04
+User -> rdp Answer ->  Level -> 0 Time ->  2017/10/23 16:26:47
+User -> vis Answer ->  Level -> 2 Time ->  2017/10/23 16:27:23
+User -> rdp Answer -> we Level -> 0 Time ->  2017/10/23 16:27:27
+User -> rdp Answer ->  Level -> 0 Time ->  2017/10/23 16:30:20
+User -> xino Answer -> [9gJ`&J }El*DXi>0Y!9N4`=SzPe_G6cDh1uC! Level -> 1 Time ->  2017/10/23 16:30:58
+User -> xino Answer -> [9gJ`&J }El*DXi>0Y!9N4`=SzPe_G6cDh1uC! Level -> 1 Time ->  2017/10/23 16:31:04
+User -> xino Answer -> [9gJ`&J }El*DXi>0Y!9N4`=SzPe_G6cDh1uC! Level -> 1 Time ->  2017/10/23 16:31:05
+User -> rdp Answer ->  Level -> 0 Time ->  2017/10/23 16:32:34
+User -> rdp Answer -> wfwef Level -> 0 Time ->  2017/10/23 16:32:43
+User -> rdp Answer -> wfwef Level -> 0 Time ->  2017/10/23 16:32:56
+User -> rdp Answer ->  Level -> 0 Time ->  2017/10/23 16:41:00
+User -> rdp Answer -> ert Level -> 0 Time ->  2017/10/23 16:41:04
+User -> rdp Answer -> wer Level -> 4 Time ->  2017/10/23 16:41:43
+User -> exun Answer -> ok Level -> 2 Time ->  2017/10/23 16:43:53
+User -> xino Answer -> tally Level -> 0 Time ->  2017/10/23 16:49:42
+User -> xino Answer ->  Level -> 0 Time ->  2017/10/23 16:49:44
+User -> exun Answer -> core{f6a8f03b0ac13c7ba01118fd6515e6eb} Level -> 0 Time ->  2017/10/23 16:50:48
+User -> xino Answer -> core{5c9cee80723abba6fbc04d49e38d045e}|corehacksx Level -> 1 Time ->  2017/10/23 16:53:31
+User -> xino Answer -> core{5c9cee80723abba6fbc04d49e38d045e} Level -> 1 Time ->  2017/10/23 16:54:17
+User -> rdp Answer -> bvbv Level -> 1 Time ->  2017/10/23 16:57:59
+User -> xino Answer -> core{f6a8f03b0ac13c7ba01118fd6515e6eb} Level -> 0 Time ->  2017/10/23 17:37:24
+User -> vis Answer ->  Level -> 0 Time ->  2017/10/23 17:53:18
+User -> exun Answer ->  Level -> 4 Time ->  2017/10/23 18:04:35
+User -> exun Answer -> ugh Level -> 4 Time ->  2017/10/23 18:04:42
+User -> vis Answer -> rar Level -> 0 Time ->  2017/10/23 18:33:44
+User -> vis Answer -> compressed Level -> 0 Time ->  2017/10/23 18:37:16
+User -> vis Answer -> 235 Level -> 0 Time ->  2017/10/23 19:01:37
+User -> vis Answer -> core{f6a8f03b0ac13c7ba01118fd6515e6eb} Level -> 0 Time ->  2017/10/23 19:04:43
+User -> exun Answer -> core{4380ea2ba38f11d13420095ed761342f} Level -> 2 Time ->  2017/10/23 19:47:05
+User -> exun Answer -> core{4380ea2ba38f11d13420095ed761342f} Level -> 2 Time ->  2017/10/23 19:47:28
+User -> exun Answer -> core Level -> 4 Time ->  2017/10/23 19:48:08
+User -> exun Answer -> core{4380ea2ba38f11d13420095ed761342f} Level -> 2 Time ->  2017/10/23 19:49:42
+User -> xino Answer -> Thug. Level -> 2 Time ->  2017/10/23 19:56:48
+User -> xino Answer -> Thug. Level -> 2 Time ->  2017/10/23 19:56:55
+User -> xino Answer -> Thug. Level -> 2 Time ->  2017/10/23 19:57:17
+User -> xino Answer -> 1pgZnThZABf79 Level -> 2 Time ->  2017/10/23 19:59:52
+User -> xino Answer -> 1pgZnThZABf79 Level -> 2 Time ->  2017/10/23 19:59:55
+User -> xino Answer -> administrator Level -> 2 Time ->  2017/10/23 20:00:00
+User -> rdp Answer -> core{f6a8f03b0ac13c7ba01118fd6515e6eb} Level -> 0 Time ->  2017/10/23 20:00:15
+User -> xino Answer -> core{1pgZnThZABf79} Level -> 2 Time ->  2017/10/23 20:01:14
+User -> xino Answer -> core{4380ea2ba38f11d13420095ed761342f}  Level -> 2 Time ->  2017/10/23 20:03:37
+User -> xino Answer -> core{4380ea2ba38f11d13420095ed761342f}  Level -> 2 Time ->  2017/10/23 20:03:45
+User -> xino Answer -> core{4380ea2ba38f11d13420095ed761342f}  Level -> 2 Time ->  2017/10/23 20:03:48
+User -> xino Answer -> core{4380ea2ba38f11d13420095ed761342f}  Level -> 2 Time ->  2017/10/23 20:03:51
+User -> xino Answer -> core{4380ea2ba38f11d13420095ed761342f}  Level -> 2 Time ->  2017/10/23 20:03:54
+User -> xino Answer -> core{4380ea2ba38f11d13420095ed761342f}  Level -> 2 Time ->  2017/10/23 20:04:16
+User -> exun Answer -> core{4380ea2ba38f11d13420095ed761342f} Level -> 2 Time ->  2017/10/23 20:04:20
+User -> xino Answer -> core{4380ea2ba38f11d13420095ed761342f}  Level -> 2 Time ->  2017/10/23 20:04:49
+User -> xino Answer -> core{4380ea2ba38f11d13420095ed761342f} Level -> 2 Time ->  2017/10/23 20:06:10
+User -> codewars Answer ->  Level -> 0 Time ->  2017/10/23 20:10:43
+User -> exun Answer -> core{77373dddd14d5876e37c38dcd3658} Level -> 4 Time ->  2017/10/23 20:17:23
+User -> exun Answer -> core{555c4403545d4450540d41525058415650584156555b4451555b4451505e4151555b41505057415250594450505c4152555c415650574451555c4451505c4153505a415d530b4253565c4353} Level -> 4 Time ->  2017/10/23 20:22:57
+User -> codewars Answer -> Thug. Level -> 2 Time ->  2017/10/23 20:33:19
+User -> codewars Answer -> thug Level -> 2 Time ->  2017/10/23 20:33:36
+User -> codewars Answer -> 4380ea2ba38f11d13420095ed761342f Level -> 2 Time ->  2017/10/23 20:33:49
+User -> codewars Answer -> core{4380ea2ba38f11d13420095ed761342f} Level -> 2 Time ->  2017/10/23 20:34:03
+User -> codewars Answer -> core Level -> 4 Time ->  2017/10/23 20:36:46
+User -> codewars Answer -> core{f6a8f03b0ac13c7ba01118fd6515e6eb} Level -> 0 Time ->  2017/10/23 20:38:19
+User -> codewars Answer -> TXARP^FVWES\EPW\DP[ Level -> 4 Time ->  2017/10/23 20:38:35
+User -> codewars Answer -> core{77373dddd14d5876e37c38dcd3658S} Level -> 3 Time ->  2017/10/23 20:44:17
+User -> codewars Answer -> core{77373dddd14d5876e37c38dcd3658S} Level -> 4 Time ->  2017/10/23 20:44:25
+User -> xino Answer -> core{77373dddd14d5876e37c38dcd3658} Level -> 4 Time ->  2017/10/23 20:53:46
+User -> xino Answer -> core{77373dddd14d5876e37c38dcd3658 S Level -> 4 Time ->  2017/10/23 20:53:50
+User -> xino Answer -> core{77373dddd14d5876e37c38dcd3658 S{ Level -> 4 Time ->  2017/10/23 20:53:55
+User -> xino Answer -> core{77373dddd14d5876e37c38dcd3658 S} Level -> 4 Time ->  2017/10/23 20:53:59
+User -> xino Answer -> core{77373dddd14d5876e37c38dcd3658} Level -> 4 Time ->  2017/10/23 21:00:53
+User -> codewars Answer -> core{77373dddd14d5876e37c38dcd3658} Level -> 4 Time ->  2017/10/23 21:15:56
+User -> codewars Answer -> core{77373dddd14d5876e37c38dcd3658S} Level -> 4 Time ->  2017/10/23 21:16:07
+User -> rdp Answer -> k Level -> 1 Time ->  2017/10/23 21:24:35
+User -> exun Answer -> core{77373dddd14d5876e37c38dcd365880d} Level -> 4 Time ->  2017/10/23 21:54:24
+User -> exun Answer -> core{77373dddd14d5876e37c38dcd365893e} Level -> 4 Time ->  2017/10/23 21:54:34
+User -> xino Answer -> ls Level -> 3 Time ->  2017/10/23 22:26:56
+User -> xino Answer -> ls Level -> 3 Time ->  2017/10/23 22:27:00
+User -> xino Answer -> s Level -> 3 Time ->  2017/10/23 22:27:04
+User -> xino Answer -> yes Level -> 3 Time ->  2017/10/23 22:29:26
+User -> syntax Answer -> f6a8f03b0ac13c7ba01118fd6515e6eb Level -> 0 Time ->  2017/10/23 23:06:34
+User -> syntax Answer -> core{f6a8f03b0ac13c7ba01118fd6515e6eb} Level -> 0 Time ->  2017/10/23 23:06:57
+User -> exun Answer -> core{41644153351972756bf70ec186857774} Level -> 3 Time ->  2017/10/23 23:10:31
+User -> rdp Answer -> core{0E09D8E813533872DB262AD6693FF654} Level -> 5 Time ->  2017/10/23 23:36:17
+User -> xino Answer -> sensitiveinformation Level -> 3 Time ->  2017/10/23 23:43:17
+User -> syntax Answer -> administrator Level -> 2 Time ->  2017/10/24 01:17:48
+User -> exun Answer -> core{0e09d8e813533872db262ad6693ff654} Level -> 5 Time ->  2017/10/24 01:28:38
+User -> exun Answer -> core{0e09d8e813533872db262ad6693ff654} Level -> 5 Time ->  2017/10/24 01:29:11
+User -> exun Answer -> core{0E09D8E813533872DB262AD6693FF654} Level -> 5 Time ->  2017/10/24 01:31:01
+User -> syntax Answer -> 1pgZnThZABf79 Level -> 2 Time ->  2017/10/24 01:31:21
+User -> syntax Answer ->  Level -> 2 Time ->  2017/10/24 01:31:35
+User -> syntax Answer -> 1pgZnThZABf79 Level -> 2 Time ->  2017/10/24 01:34:01
+User -> syntax Answer -> 1pgZnThZABf79 Level -> 2 Time ->  2017/10/24 01:34:06
+User -> syntax Answer -> core{4380ea2ba38f11d13420095ed761342f} Level -> 2 Time ->  2017/10/24 01:39:24
+User -> syntax Answer ->  Level -> 5 Time ->  2017/10/24 03:09:57
+User -> syntax Answer -> core{5c9cee80723abba6fbc04d49e38d045e} Level -> 1 Time ->  2017/10/24 07:54:24
+User -> amity43 Answer ->  Level -> 1 Time ->  2017/10/24 10:37:38
+User -> amity43 Answer ->  Level -> 0 Time ->  2017/10/24 10:40:02
+User -> amity43 Answer ->  Level -> 0 Time ->  2017/10/24 10:40:10
+User -> amity43 Answer -> me Level -> 0 Time ->  2017/10/24 10:43:23
+User -> amity43 Answer ->  Level -> 0 Time ->  2017/10/24 10:43:57
+User -> amity43 Answer -> rar Level -> 0 Time ->  2017/10/24 10:46:42
+User -> amity43 Answer -> 500 Level -> 0 Time ->  2017/10/24 10:46:44
+User -> amity43 Answer -> .rar Level -> 0 Time ->  2017/10/24 10:46:59
+User -> amity43 Answer -> 500 Level -> 0 Time ->  2017/10/24 10:49:18
+User -> amity43 Answer -> 500 Level -> 0 Time ->  2017/10/24 10:49:18
+User -> amity43 Answer -> 500.rar Level -> 0 Time ->  2017/10/24 10:49:21
+User -> amity43 Answer -> 1 Level -> 0 Time ->  2017/10/24 10:49:26
+User -> amity43 Answer -> 1.rar Level -> 0 Time ->  2017/10/24 10:49:31
+User -> amity43 Answer -> infinite Level -> 0 Time ->  2017/10/24 10:49:35
+User -> amity43 Answer -> obsession Level -> 0 Time ->  2017/10/24 10:49:42
+User -> amity43 Answer ->  Level -> 2 Time ->  2017/10/24 10:49:44
+User -> amity43 Answer -> %.png Level -> 5 Time ->  2017/10/24 10:59:15
+User -> amity43 Answer -> core{[%][.][p][n][g]_} Level -> 5 Time ->  2017/10/24 11:06:35
+User -> xino Answer -> <Buffer 89 50 4e 47 0d 0a 1a 0a 00 00 00 0d 49 48 44 52 00 00 00 70 00 00 00 70 08 06 00 00 00 c6 e0 f4 4b 00 00 00 09 70 48 59 73 00 00 0b 13 00 00 0b 13 01 ... > Level -> 5 Time ->  2017/10/24 13:48:02
+User -> xino Answer -> core{0E09D8E813533872DB3FF654} Level -> 5 Time ->  2017/10/24 16:15:04
+User -> xino Answer -> core{0E09D8E813533872DB3FF654} Level -> 5 Time ->  2017/10/24 16:15:22
+User -> xino Answer -> core{0E09D8E813533872DB262AD6693FF654} Level -> 5 Time ->  2017/10/24 16:27:04
+User -> xino Answer -> core{41644153351972756bf70ec186857774} Level -> 3 Time ->  2017/10/24 17:25:00
+User -> codewars Answer -> core{5c9ceeXP723abba6c04d49e3X045e} Level -> 1 Time ->  2017/10/24 18:31:44
+User -> codewars Answer -> ce{5c9ceeXP723abba6c04d49e3X045e} Level -> 1 Time ->  2017/10/24 18:33:00
+User -> codewars Answer -> core{5c9ceeXP723abba6c04d49e3X045e} Level -> 1 Time ->  2017/10/24 18:33:08
+User -> codewars Answer -> core{5c9cee80723abba6fbc04d49e38d045e} Level -> 1 Time ->  2017/10/24 18:38:28
+User -> syntax Answer -> pi Level -> 5 Time ->  2017/10/24 18:53:57
+User -> syntax Answer -> 3.14 Level -> 5 Time ->  2017/10/24 18:54:02
+User -> syntax Answer -> pie Level -> 5 Time ->  2017/10/24 18:56:49
+User -> syntax Answer -> 3.14 Level -> 5 Time ->  2017/10/24 19:28:21
+User -> syntax Answer -> same Level -> 5 Time ->  2017/10/24 20:47:15
+User -> syntax Answer -> L Level -> 5 Time ->  2017/10/24 20:47:20
+User -> syntax Answer -> white Level -> 5 Time ->  2017/10/24 20:47:35
+User -> syntax Answer -> CORE{E09D8E813533872DB262AD6693FF654} Level -> 5 Time ->  2017/10/24 21:05:42
+User -> syntax Answer -> CORE{09D8E81B533872DB262AD6693FF654} Level -> 5 Time ->  2017/10/24 21:07:52
+User -> syntax Answer -> CORE{E09D8E813533872DB262AD6693FF654} Level -> 5 Time ->  2017/10/24 21:08:17
+User -> syntax Answer -> CORE{E09D8E81B533872DB262AD6693FF654} Level -> 5 Time ->  2017/10/24 21:08:26
+User -> syntax Answer -> CORE{0E09D8E813533872DB262AD6693FF654} Level -> 5 Time ->  2017/10/24 21:11:40
+User -> syntax Answer -> core{0e09d8e813533872db262ad669 Level -> 5 Time ->  2017/10/24 21:14:05
+User -> syntax Answer -> core{0e09d8e813533872db262ad669} Level -> 5 Time ->  2017/10/24 21:14:45
+User -> syntax Answer -> CORE{0E09D8E813533872DB262AD6693FF654} Level -> 5 Time ->  2017/10/24 21:14:47
+User -> syntax Answer -> CORE{OE09D8E813533872DB262AD6693FF654} Level -> 5 Time ->  2017/10/24 21:14:55
+User -> syntax Answer -> core{0E09D8E813533872DB262AD6693FF654} Level -> 5 Time ->  2017/10/24 21:15:24
+User -> syntax Answer -> CORE{0E09D8E813533872DB262AD6693FF654} Level -> 5 Time ->  2017/10/24 21:15:26
+User -> syntax Answer ->  Level -> 3 Time ->  2017/10/24 21:53:49
+User -> syntax Answer -> no Level -> 3 Time ->  2017/10/24 21:54:01
+User -> syntax Answer -> core{41644153351972756bf70ec186857774} Level -> 3 Time ->  2017/10/25 00:02:42

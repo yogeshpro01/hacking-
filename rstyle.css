@@ -1,0 +1,102 @@
+body{
+	background: black;
+	color:  #32CD32;
+	
+}
+.header{
+	
+
+	position: fixed;
+	top: 0;
+	width: 100%;
+	background: black;
+	font-family: 'Raleway',verdana;
+	font-weight: 500;
+	font-size: 1.7rem;
+	z-index: 100;
+	height: 65px;
+}
+.nav-ele{
+	display: inline-block;
+}
+.left-part{
+	position: relative;
+	font-size: 3rem;
+	top: 10px;
+	left: 20px;
+	
+}
+.right-part{
+	float: right;
+	position: relative;
+	color:#32CD32;
+	top: 3px;
+}
+.right-part a{
+	position: relative;
+	top: 15px;
+	right: 15px;
+	color: #32CD32;
+	text-decoration: none;
+	padding: 10px;
+	margin: 5px;
+	z-index: 1;
+}
+.right-part a:after{
+	position: absolute;
+	content: "";
+	width: 0;
+	height: 100%;
+	top: 0;
+	left: 50%;
+	right: 50%;
+	background: white;
+	opacity: 0;
+	z-index: -1;
+	transition: .3s;
+	border-radius: 10px;
+}
+.right-part a:hover{
+	color: #32CD32;
+}
+.right-part a:hover:after{
+	width: 100%;
+	left: 0;right: 0;
+	opacity: 1;
+}
+.landing{
+	position: relative;
+	font-family: "Roboto",verdana;
+	margin-top: 100px;
+	font-weight: 500;
+
+}
+.landing h1{
+	padding: 20px;
+	padding-left: 0;
+	font-size: 5rem;
+}
+.landing li{
+	width: 60%;
+	padding-bottom: 20px;
+}
+.buttons a{
+	text-decoration: none;
+	color: #32cd32;
+	padding: 8px;
+	border:2px solid #32cd32;
+	position: relative;
+	border-radius: 5px;
+	z-index: 1;
+	transition: .3s;
+}
+.buttons a:hover{
+	background: #32cd32;
+	color: white;
+}
+.landing li{
+	width: 60%;
+	text-align: left;
+	margin: 5px;
+	font-size: 1.7rem;
+}
